@@ -1,0 +1,13 @@
+/* Add any global styles or resets here */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:aqua;
+}
